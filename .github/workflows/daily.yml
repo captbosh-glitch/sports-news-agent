@@ -27,3 +27,4 @@ jobs:
           git add nhl_news.db dashboard.html
           git commit -m "Daily NHL news update" || echo "Nothing to commit"
           git push
+# refreshed 2026-08-27
